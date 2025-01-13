@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Rocket
+comment0.text=\n\ Write\ a\ description\ of\ class\ Rocket\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x\ y
+comment1.target=Rocket(int,\ int)
+comment1.text=\nConstructor\ for\ objects\ of\ class\ Rocket
+comment2.params=asteroid
+comment2.target=int\ crash(Asteroids)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ fireBullet()
+comment5.params=
+comment5.target=boolean\ crash()
+comment6.params=
+comment6.target=boolean\ canShoot()
+comment7.params=
+comment7.target=void\ keyPress()
+numComments=8

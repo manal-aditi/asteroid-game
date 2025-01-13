@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SpaceTwo
+comment0.text=\n\ Write\ a\ description\ of\ class\ SpaceTwo\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=SpaceTwo()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SpaceTwo\n
+comment2.params=
+comment2.target=void\ setFields()
+comment3.params=
+comment3.target=void\ nextLevel()
+comment4.params=
+comment4.target=void\ resetLevel()
+comment5.params=add
+comment5.target=void\ addAliens(int)
+comment5.text=private\ void\ addAsteroids(int\ count)\ \n\ \ \ \ {\n\ \ \ \ \ \ \ \ for(int\ i\ \=\ 0;\ i\ <\ count;\ i++)\ \n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ int\ x\ \=\ Greenfoot.getRandomNumber(getWidth()/2);\n\ \ \ \ \ \ \ \ \ \ \ \ int\ y\ \=\ Greenfoot.getRandomNumber(getHeight()/2);\n\ \ \ \ \ \ \ \ \ \ \ \ addObject(new\ Asteroids(),\ x,\ y);\n\ \ \ \ \ \ \ \ }\n}
+numComments=6

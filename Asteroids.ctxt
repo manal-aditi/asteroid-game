@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Asteroids
+comment0.text=\n\ create\ precise\ co-ordinates\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=y\ x\ maxY
+comment1.target=Asteroids(int,\ int,\ int)
+comment2.params=size
+comment2.target=Asteroids(int)
+comment3.params=
+comment3.target=void\ hit()
+comment4.params=
+comment4.target=int\ getHitPoints()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ getCoordinates()
+comment7.params=size
+comment7.target=void\ setSize(int)
+comment7.text=\n\ Set\ the\ size\ of\ this\ asteroid.\ Note\ that\ stability\ is\ directly\n\ related\ to\ size.\ Smaller\ asteroids\ are\ less\ stable.\n
+numComments=8
