@@ -1,1 +1,1 @@
-This code contains the working files in order to launch a game involving asteroids and robots.
+Alien Invasion is a 2D arcade-style game developed using the Greenfoot interactive Java environment. Built as part of a CS course, the project demonstrates key principles of event-driven programming, state management, and real-time interaction using Java and the Greenfoot framework.
